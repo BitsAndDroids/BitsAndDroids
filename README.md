@@ -5,7 +5,7 @@ Here you'll find all the latest projects that I'm working on.
 Most of these aim to fuse hardware with software. Actually touching something you've coded gives me that magical feeling.
 
 ## For the flight sim enthousiasts:
-- The BitsAndDroidsFlightConnector is the repo behind my MFS2020 connector (or if anybody feels like it they are free to add support for FSX ;)). It's made in C++ using the QT framework.
+- The BitsAndDroidsFlightConnector is the repo behind my MFS2020 connector (or if anybody feels like it they are free to add support for FSX :wink:). It's made in C++ using the QT framework.
 - The libraries reduce the time required for users to interface with the connector. Why reinvent the weel when we've done the boring stuff. Both of these require some further optimilizations to better fit certain microprocessors.
 - The WASM module acts as a gateway to the deeper Gauge API of MFS2020.
 
