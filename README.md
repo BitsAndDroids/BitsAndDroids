@@ -12,8 +12,6 @@ Most of these aim to fuse hardware with software. Actually touching something yo
 ## I'm working on:
 - A library generator. This project will dynamically generate an C++ library (Arduino + other platforms) matching your needs. Reducing the library footprint by cutting the functions you don't utilize.
 
-# Hire me!
-If your looking for a junior C++/Web developper that can't wait to get started feel free to contact me at: dave@bitsanddroids.com 
 <!--
 **BitsAndDroids/BitsAndDroids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
